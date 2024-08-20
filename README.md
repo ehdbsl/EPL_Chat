@@ -1,4 +1,4 @@
-###EPL_ChatBot
+### EPL_ChatBot
 <hr>
 ### 팀장: 황동현
 ### 팀원: 김대현, 김도윤, 이종현
