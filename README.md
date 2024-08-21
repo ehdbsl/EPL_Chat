@@ -8,10 +8,10 @@
 <hr>
 <p>사용한 Library</p>
 
-fastapi
-uvicorn
-transformers
-torch
+<p>fastapi</p>
+<p>uvicorn</p>
+<p>transformers</p>
+<p>torch</p>
 
 
 <hr>
