@@ -16,9 +16,9 @@ torch
 
 <hr>
 <p>installation</p>
-```
+'''
 pip install fastapi uvicorn transformers torch
-```
+'''
 
 <hr>
 <p>기능: 챗봇, 뉴스 기사 제공, 퀴즈</p>
@@ -26,7 +26,8 @@ pip install fastapi uvicorn transformers torch
 <p>사용 NLP 모델: skt/kogpt2-base-v2, KoBART</p>
 <p>skt/kogpt2-base-v2: 부족한 한국어 성능을 극복하기 위해 40GB 이상의 텍스트로 학습</p>
 <p>
-  <ul>KoBART
+  <ul>
+    <p>KoBART</p>
     <li>BART는 페이스북 AI 연구팀에서 제안한 텍스트 생성 모델</li>
     <li>주로텍스트요약,번역,문장생성등다양한자연어처리작업에사용</li>
     <li>한국어 버전의 BART (Bidirectional and Auto-Regressive Transformers) 모델</li>
