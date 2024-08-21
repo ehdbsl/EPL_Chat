@@ -34,4 +34,12 @@ pip install fastapi uvicorn transformers torch
   </ul>
 </p>
 
+<hr>
+<p>Trouble Shooting</p>
+<p>비주류 팀에 대한 정보의 다양성, 신뢰성 문제</p>
+<p>보완: 여러 출처의 데이터를 교차검증하여 정확도 확보</p>
+<p>모델 학습 시 높은 validation loss 값, 너무 짧은 학습 시간때문에 발생한 답변 오류, 생성 시간 지연, 문법 오류</p>
+<p>보완: 데이터를 적절히 전처리 + early-stopping 방법을 활용</p>
+<p>GPT2, T5, BERT 등 여러 모델을 적용해보는 과정에서 결과가 좋지 않아 시간 소요가 많이 됨</p>
+<p>보완: 한국어 사전학습 모델인 KoGPT-2 활용, 데이터를 더 확보한다면 품질 개선 가능</p>
 
